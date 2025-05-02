@@ -12,18 +12,18 @@ Which variables are significant in predicting the price of a car <br>
 How well those variables describe the price of a car <br>
 Based on various market surveys, the consulting firm has gathered a large 
 data set of different types of cars across the America market.<br> 
-What We Are Trying to Solve <br>
+<h2>What We Are Trying to Solve</h2>
 We are required to model the price of cars with the available independent 
 variables. It will be used by the management to understand how exactly 
 the prices vary with the independent variables. They can accordingly 
 manipulate the design of the cars, the business strategy etc. to meet 
 certain price levels. Further, the model will be a good way for management 
 to understand the pricing dynamics of a new market. <br>
-Dataset Information <br>
+<h2>Dataset Information</h2>
 The dataset contains information on various cars, with several attributes (or 
 columns) describing different aspects of each car. Here is an explanation of 
 each column present in the data: <br>
-Column Information <br>
+<h2>Column Information</h2>
 ➢ car_ID: A unique identifier for each car.<br> 
 ➢ symboling: An insurance risk rating, ranging from -3 to 3, where 
 higher values indicate a higher risk. <br>
